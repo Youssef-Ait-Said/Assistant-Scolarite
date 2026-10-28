@@ -1,1 +1,53 @@
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python ---
+__pycache__/
+*.py[oc]
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+venv/
+ENV/
+env/
+
+# --- Environment & Secrets ---
 .env
+.env.*
+secrets.json
+*.pem
+*.key
+*.crt
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- RAG & Data (Confidential & Large) ---
+# Exclude entire data directory and vector databases
+data/
+vector_store/
+embeddings/
+indexes/
+
+# Exclude specific large data formats
+*.csv
+*.jsonl
+*.parquet
+*.sqlite
+*.db
+*.idx
+*.bin
+
+# --- Logs ---
+*.log
+logs/
