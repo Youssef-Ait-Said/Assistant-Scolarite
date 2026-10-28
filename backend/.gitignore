@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project specific - Data and Indexes
+data/
+vector_store/
+*.db
+*.idx
+.env
+secrets.json
