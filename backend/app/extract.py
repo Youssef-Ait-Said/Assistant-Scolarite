@@ -1,12 +1,16 @@
+"""Extraction des PDF : métadonnées, texte par page, lignes de tableau, en-têtes retirés."""
 import json, re, pathlib
 from collections import Counter
 import pdfplumber
+
+from app import config
 
 MOIS = {"janvier":1,"février":2,"mars":3,"avril":4,"mai":5,"juin":6,
         "juillet":7,"août":8,"septembre":9,"octobre":10,"novembre":11,"décembre":12}
 
 
 def date_iso(texte):
+    """'15 juin 2026' -> '2026-06-15'"""
     m = re.search(r"(\d{1,2})(?:er)?\s+(\w+)\s+(\d{4})", texte or "")
     if not m or m.group(2).lower() not in MOIS:
         return ""
@@ -38,7 +42,7 @@ def lire_metadonnees(pdf):
 
 
 def hors_tableaux(page, bboxes):
-    # Garde le texte de la page SANS les tableaux (on les traite à part)
+    # """Garde le texte de la page SANS les tableaux (on les traite à part)."""
     # bboxes = les rectangles (x0, haut, x1, bas) où se trouvent les tableaux
     def garder(obj):
         if obj.get("object_type") != "char":
@@ -49,35 +53,27 @@ def hors_tableaux(page, bboxes):
     return page.filter(garder)
 
 
-def lignes_de_tableau(table, entetes_precedents=None):
-    lignes = [[nettoyer(c or "") for c in row] for row in table if row]
-    lignes = [r for r in lignes if any(r)]          # filtre APRÈS nettoyage
-    if not lignes:
-        return [], entetes_precedents
-
-    if entetes_precedents and len(lignes[0]) == len(entetes_precedents):
-        entetes, donnees = entetes_precedents, lignes   # suite d'un tableau
-    elif len(lignes) >= 2:
-        entetes, donnees = lignes[0], lignes[1:]
-    else:
-        return [], None
-
-    resultat = []
-    for row in donnees:
-        morceaux = [f"{h} : {v}" if h else v for h, v in zip(entetes, row) if v]
+def lignes_de_tableau(table):
+    """Chaque ligne est recollée à ses en-têtes : 'Date : ... — Événement : ...'"""
+    lignes = [[nettoyer(c) for c in row] for row in table if row and any(row)]
+    if len(lignes) < 2:
+        return []
+    entetes, resultat = lignes[0], []
+    for row in lignes[1:]:
+        morceaux = [f"{h} : {v}" for h, v in zip(entetes, row) if v]
         if morceaux:
-            resultat.append(" — ".join(morceaux))
-    return resultat, entetes
+            resultat.append(" — " .join(morceaux))
+    return resultat
 
 
 def cle_ligne(ligne):
-    # Remplace tous les chiffres par '#', pour que "Page 1/4" et "Page 2/4"
-    # deviennent la même chose : "Page #/#"
+    # Remplace tous les chiffres par '#' : "Page 1/4" et "Page 2/4" deviennent identiques
     return re.sub(r"\d+", "#", ligne.strip())
 
 
 def lignes_repetees(pages_texte):
-    """En-têtes / pieds de page : lignes qui reviennent sur au moins la moitié des pages."""
+    """trouve les en-têtes et pieds de page (lignes présentes sur au moins la moitié des pages)"""
+    """Le compteur est pour detecter les entetes qui se repetent dans chaque pages -- Compter = détecter les en-têtes."""
     n = len(pages_texte)
     if n < 2:
         return set()
@@ -100,7 +96,7 @@ def extraire_pdf(chemin):
             textes.append(hors_tableaux(page, bboxes).extract_text() or "")
             lignes = []
             for j, t in enumerate(trouves):
-                if i == 0 and j == 0:   # tableau des métadonnées, déjà lu
+                if i == 0 and j == 0:   # tableau des métadonnées(premier tab de chaque pdf), déjà lu
                     continue
                 lignes += lignes_de_tableau(t.extract())
             tableaux.append(lignes)
@@ -115,8 +111,9 @@ def extraire_pdf(chemin):
     return {"metadata": meta, "pages": pages}
 
 
-def extraire_corpus(dossier="../data/corpus"):
-    return [extraire_pdf(p) for p in sorted(pathlib.Path(dossier).glob("*.pdf"))]
+def extraire_corpus(dossier=None):
+    dossier = pathlib.Path(dossier or config.CORPUS_DIR)
+    return [extraire_pdf(p) for p in sorted(dossier.glob("*.pdf"))]     #glog(renvoie les chemins des fichiers qui se terminent par .pdf)
 
 
 if __name__ == "__main__":
