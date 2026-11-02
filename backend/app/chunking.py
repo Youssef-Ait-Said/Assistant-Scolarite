@@ -2,7 +2,7 @@ import json, re, pathlib
 from app.extract import extraire_corpus
 
 # Une ligne est un titre si elle commence par : "Article 6", "Titre III",
-TITRE = re.compile(r"^(Article \d+|Titre [IVX]+|\d+(\.\d+)*\.?\s+[A-ZÀ-Ý]|Q\d+\.)")
+TITRE = re.compile(r"^(Article \d+|Titre [IVX]+|\d+(\.\d+)*\.?\s+[A-ZÀ-Ý]|Q\d+\.)") 
 
 
 def couper_fixe(texte, taille = 500, chevauchement = 100):

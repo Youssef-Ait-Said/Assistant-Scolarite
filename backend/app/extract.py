@@ -45,23 +45,29 @@ def hors_tableaux(page, bboxes):
             return True
         cx = (obj["x0"] + obj["x1"]) / 2
         cy = (obj["top"] + obj["bottom"]) / 2
-        return not any(x0 <= cx <= x1 and t <= cy <= b for x0, t, x1, b in bboxes)
+        return not any(x0 <= cx <= x1 and t <= cy <= b for x0, t, x1, b in bboxes)  #on garde le caractère seulement s’il n’est dans aucun tableau.
     return page.filter(garder)
 
 
-def lignes_de_tableau(table):
-    """Chaque ligne est recollée à ses en-têtes : 'Date : ... — Événement : ...'"""
-    # On enlève les lignes vides, et on nettoie chaque cellule
-    lignes = [[nettoyer(c) for c in row] for row in table if row and any(row)]
-    if len(lignes) < 2:   # il faut une ligne d'en-têtes + au moins une ligne de données
-        return []
-    entetes, resultat = lignes[0], []
-    for row in lignes[1:]:
-        # zip(entetes, row) associe chaque titre à sa valeur
-        morceaux = [f"{h} : {v}" for h, v in zip(entetes, row) if v]
+def lignes_de_tableau(table, entetes_precedents=None):
+    lignes = [[nettoyer(c or "") for c in row] for row in table if row]
+    lignes = [r for r in lignes if any(r)]          # filtre APRÈS nettoyage
+    if not lignes:
+        return [], entetes_precedents
+
+    if entetes_precedents and len(lignes[0]) == len(entetes_precedents):
+        entetes, donnees = entetes_precedents, lignes   # suite d'un tableau
+    elif len(lignes) >= 2:
+        entetes, donnees = lignes[0], lignes[1:]
+    else:
+        return [], None
+
+    resultat = []
+    for row in donnees:
+        morceaux = [f"{h} : {v}" if h else v for h, v in zip(entetes, row) if v]
         if morceaux:
             resultat.append(" — ".join(morceaux))
-    return resultat
+    return resultat, entetes
 
 
 def cle_ligne(ligne):
