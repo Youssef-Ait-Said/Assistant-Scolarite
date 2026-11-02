@@ -1,7 +1,20 @@
 [
   {
     "id": "EIH-DE-REG-2026-p1-structurel-0",
-    "texte": "Titre I — Dispositions générales Article 1 — Objet",
+    "text": "Règlement des études du cycle ingénieur Année universitaire 2026-2027 — dispositions applicables aux trois années du cycle",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 1,
+    "section": "",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p1-structurel-1",
+    "text": "Titre I — Dispositions générales Article 1 — Objet Le présent règlement définit les règles d'organisation des enseignements, d'assiduité, d'évaluation, de validation et de délivrance du diplôme d'ingénieur de l'École d'Ingénieurs Hélianthe (ci-après « l'École » ou « EIH »). Il s'applique à tous les étudiants inscrits dans le cycle ingénieur pour l'année universitaire 2026-2027.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -13,8 +26,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p1-structurel-1",
-    "texte": "Article 2 — Champ d'application Titre II — Organisation des enseignements",
+    "id": "EIH-DE-REG-2026-p1-structurel-2",
+    "text": "Article 2 — Champ d'application Le cycle ingénieur dure trois années, désignées 1A, 2A et 3A. À partir de la 2A, chaque étudiant suit l'une des trois filières de l'École : • IGL — Informatique et Génie Logiciel ; • SDIA — Science des Données et Intelligence Artificielle ; • CSR — Cybersécurité et Réseaux. Les règles propres aux stages et au Projet de Fin d'Études (PFE) sont précisées dans le Guide des stages et du PFE (réf. EIH-SRE-GUIDE-2026). Les règles de mobilité internationale figurent dans la Charte de mobilité internationale (réf. EIH-BRI-CHARTE-2026).",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -22,12 +35,25 @@
     "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
     "statut": "En vigueur à compter du 14 septembre 2026",
     "page": 1,
-    "section": "Titre II — Organisation des enseignements",
+    "section": "Article 2 — Champ d'application",
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p1-structurel-2",
-    "texte": "Article 3 — Semestres et crédits Article 4 — Modules",
+    "id": "EIH-DE-REG-2026-p1-structurel-3",
+    "text": "Titre II — Organisation des enseignements Article 3 — Semestres et crédits Chaque année comprend deux semestres. Le cycle compte donc six semestres, numérotés S1 à S6. Chaque semestre correspond à 30 crédits ECTS, soit 60 crédits par année et 180 crédits pour l'ensemble du cycle.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 1,
+    "section": "Article 3 — Semestres et crédits",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p1-structurel-4",
+    "text": "Article 4 — Modules Les enseignements sont organisés en modules. Chaque module est affecté d'un nombre de crédits et fait l'objet d'une fiche module publiée en début de semestre. La fiche précise les objectifs, le volume horaire, les modalités d'évaluation et, le cas échéant, l'autorisation d'utiliser des outils d'intelligence artificielle générative (voir article 20).",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -39,34 +65,34 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p1-structurel-3",
-    "texte": "Année : 1A — Semestres : S1, S2 — Contenu principal : Tronc commun scientifique et informatique — Crédits : 60",
-    "file": "01_Reglement_des_etudes_2026-2027.pdf",
-    "reference": "EIH-DE-REG-2026",
-    "type": "Règlement officiel",
-    "date": "2026-07-10",
-    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
-    "statut": "En vigueur à compter du 14 septembre 2026",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
-    "id": "EIH-DE-REG-2026-p1-structurel-4",
-    "texte": "Année : 2A — Semestres : S3, S4 — Contenu principal : Approfondissement et début de la filière ; validation du stage d'initiation en S3 — Crédits : 60",
-    "file": "01_Reglement_des_etudes_2026-2027.pdf",
-    "reference": "EIH-DE-REG-2026",
-    "type": "Règlement officiel",
-    "date": "2026-07-10",
-    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
-    "statut": "En vigueur à compter du 14 septembre 2026",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-DE-REG-2026-p1-structurel-5",
-    "texte": "Année : 3A — Semestres : S5, S6 — Contenu principal : S5 : modules de filière et validation du stage technique ; S6 : Projet de Fin d'Études — Crédits : 60",
+    "text": "Année : 1A — Semestres : S1, S2 — Contenu principal : Tronc commun scientifique et informatique — Crédits : 60",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 1,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p1-structurel-6",
+    "text": "Année : 2A — Semestres : S3, S4 — Contenu principal : Approfondissement et début de la filière ; validation du stage d'initiation en S3 — Crédits : 60",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 1,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p1-structurel-7",
+    "text": "Année : 3A — Semestres : S5, S6 — Contenu principal : S5 : modules de filière et validation du stage technique ; S6 : Projet de Fin d'Études — Crédits : 60",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -79,7 +105,7 @@
   },
   {
     "id": "EIH-DE-REG-2026-p2-structurel-0",
-    "texte": "Titre III — Assiduité Article 5 — Obligation de présence",
+    "text": "Titre III — Assiduité Article 5 — Obligation de présence La présence est obligatoire à toutes les séances de cours, de travaux dirigés (TD), de travaux pratiques (TP) et aux épreuves d'évaluation. Les présences sont relevées à chaque séance.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -92,7 +118,20 @@
   },
   {
     "id": "EIH-DE-REG-2026-p2-structurel-1",
-    "texte": "Article 6 — Justification des absences Article 7 — Seuil d'absences non justifiées",
+    "text": "Article 6 — Justification des absences Toute absence doit être justifiée dans un délai de 48 heures suivant la fin de l'absence. Le justificatif (certificat médical, convocation officielle, acte de décès d'un proche, etc.) est déposé au Service de la Scolarité ou téléversé sur le Portail Scolarité. Un justificatif remis après ce délai n'est pas pris en compte, sauf décision motivée de la Direction des Études.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 2,
+    "section": "Article 6 — Justification des absences",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p2-structurel-2",
+    "text": "Article 7 — Seuil d'absences non justifiées Lorsqu'un étudiant cumule des absences non justifiées supérieures à 20 % des séances d'un module, il n'est pas autorisé à se présenter à l'examen final de ce module. Il est alors directement orienté vers la session de rattrapage, dans les conditions de l'article 14 (note plafonnée).",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -104,8 +143,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p2-structurel-2",
-    "texte": "Titre IV — Évaluation Article 8 — Modalités d'évaluation",
+    "id": "EIH-DE-REG-2026-p2-structurel-3",
+    "text": "Titre IV — Évaluation Article 8 — Modalités d'évaluation Sauf disposition contraire de la fiche module, la note d'un module est calculée comme suit : • contrôle continu (CC) : 40 % ; • examen final (EF) : 60 %. Les notes sont exprimées sur 20. Les examens finaux des semestres impairs et pairs se déroulent aux périodes fixées par le Calendrier académique (réf. EIH-DE-CAL-2026).",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -117,8 +156,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p2-structurel-3",
-    "texte": "Article 9 — Absence à un examen 9.1 Absence non justifiée",
+    "id": "EIH-DE-REG-2026-p2-structurel-4",
+    "text": "Article 9 — Absence à un examen 9.1 Absence non justifiée Une absence non justifiée à un examen final entraîne la note de 0/20 à cette épreuve. L'étudiant peut se présenter à la session de rattrapage si la note du module est inférieure à 10/20 et non compensée.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -130,8 +169,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p2-structurel-4",
-    "texte": "9.2 Absence justifiée Article 10 — Aménagements d'épreuves",
+    "id": "EIH-DE-REG-2026-p2-structurel-5",
+    "text": "9.2 Absence justifiée Si l'absence est justifiée dans le délai prévu à l'article 6, l'étudiant passe l'épreuve lors de la session de rattrapage. Dans ce cas, la note de rattrapage remplace la note d'examen final, la note du module est calculée selon l'article 8 (CC 40 % + épreuve 60 %) et elle n'est pas plafonnée.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 2,
+    "section": "9.2 Absence justifiée",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p2-structurel-6",
+    "text": "Article 10 — Aménagements d'épreuves Les étudiants en situation de handicap ou atteints d'une maladie de longue durée peuvent bénéficier d'aménagements (temps supplémentaire, salle séparée, matériel adapté). La demande est adressée au Bureau de la Vie Étudiante selon la procédure décrite dans le Guide de la vie étudiante. Les aménagements sont décidés par une commission et s'appliquent à toutes les épreuves de l'année.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -143,8 +195,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p2-structurel-5",
-    "texte": "Article 11 — Publication des résultats et réclamations",
+    "id": "EIH-DE-REG-2026-p2-structurel-7",
+    "text": "Article 11 — Publication des résultats et réclamations Les résultats sont publiés sur le Portail Scolarité. Toute réclamation portant sur une note doit être formulée par écrit dans un délai de 5 jours ouvrables après la publication. L'étudiant peut demander à consulter sa copie en présence de l'enseignant responsable.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -157,7 +209,7 @@
   },
   {
     "id": "EIH-DE-REG-2026-p3-structurel-0",
-    "texte": "Titre V — Validation Article 12 — Validation d'un module",
+    "text": "Titre V — Validation Article 12 — Validation d'un module Un module est validé lorsque sa note est supérieure ou égale à 10/20. Les crédits correspondants sont alors définitivement acquis.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -170,7 +222,20 @@
   },
   {
     "id": "EIH-DE-REG-2026-p3-structurel-1",
-    "texte": "Article 13 — Compensation Article 14 — Session de rattrapage",
+    "text": "Article 13 — Compensation Un module dont la note est inférieure à 10/20 peut être validé par compensation si les deux conditions suivantes sont réunies : • la moyenne pondérée du semestre est supérieure ou égale à 10/20 ; • aucune note de module du semestre n'est inférieure à 7/20 (note éliminatoire). La compensation s'effectue uniquement à l'intérieur d'un même semestre. Elle ne s'applique ni au Projet de Fin d'Études, ni aux stages.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 3,
+    "section": "Article 13 — Compensation",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p3-structurel-2",
+    "text": "Article 14 — Session de rattrapage Une session de rattrapage unique est organisée en fin d'année pour les modules de tous les semestres. L'étudiant y accède pour tout module non validé et non compensé. • Inscription obligatoire sur le Portail Scolarité dans les 5 jours ouvrables suivant la publication des résultats du semestre concerné. L'absence d'inscription vaut renonciation : la note initiale est alors conservée. • Sauf cas d'absence justifiée (article 9.2), la note du module après rattrapage est égale à la note de l'épreuve de rattrapage, plafonnée à 12/20. Le contrôle continu n'est pas repris. • Si la note obtenue au rattrapage est inférieure à la note initiale, la meilleure des deux est retenue.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -182,8 +247,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p3-structurel-2",
-    "texte": "Article 15 — Validation de l'année et passage Article 16 — Redoublement et exclusion",
+    "id": "EIH-DE-REG-2026-p3-structurel-3",
+    "text": "Article 15 — Validation de l'année et passage Une année est validée lorsque ses 60 crédits sont acquis, par validation ou par compensation. Le jury d'année peut autoriser un passage conditionnel dans l'année supérieure lorsque l'étudiant n'a pas acquis au plus 6 crédits. Ces crédits manquants (« dette ») doivent être acquis au cours de l'année suivante, lors de la session de rattrapage de cette année. Le diplôme ne peut être délivré tant que les semestres S1 à S5 ne sont pas entièrement validés, même si le PFE a été soutenu avec succès.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 3,
+    "section": "Article 15 — Validation de l'année et passage",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p3-structurel-4",
+    "text": "Article 16 — Redoublement et exclusion Un étudiant qui n'a pas validé son année et ne remplit pas les conditions du passage conditionnel redouble. Un seul redoublement est autorisé sur l'ensemble du cycle. Un second échec entraîne l'exclusion définitive du cycle, prononcée par le jury après examen du dossier.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -195,8 +273,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p3-structurel-3",
-    "texte": "Titre VI — Diplôme Article 17 — Conditions de délivrance",
+    "id": "EIH-DE-REG-2026-p3-structurel-5",
+    "text": "Titre VI — Diplôme Article 17 — Conditions de délivrance Le diplôme d'ingénieur de l'EIH est délivré à l'étudiant qui remplit l'ensemble des conditions suivantes : 1. avoir acquis les 180 crédits du cycle, dont les 30 crédits du PFE ; 2. avoir validé le stage d'initiation (fin de 1A) et le stage technique (fin de 2A), selon le Guide des stages ; 3. justifier d'un niveau d'anglais B2 du Cadre européen commun de référence pour les langues (CECRL), attesté par une certification figurant sur la liste publiée par le Département des Langues de l'École, au plus tard à la date de soutenance du PFE.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -209,7 +287,7 @@
   },
   {
     "id": "EIH-DE-REG-2026-p4-structurel-0",
-    "texte": "Article 18 — Mentions Titre VII — Intégrité académique",
+    "text": "Article 18 — Mentions La mention est attribuée selon la moyenne générale pondérée des six semestres du cycle :",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -217,12 +295,25 @@
     "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
     "statut": "En vigueur à compter du 14 septembre 2026",
     "page": 4,
-    "section": "Titre VII — Intégrité académique",
+    "section": "Article 18 — Mentions",
     "strategie": "structurel"
   },
   {
     "id": "EIH-DE-REG-2026-p4-structurel-1",
-    "texte": "Article 19 — Fraude et plagiat Article 20 — Outils d'intelligence artificielle générative",
+    "text": "Titre VII — Intégrité académique Article 19 — Fraude et plagiat Toute fraude ou tentative de fraude à une évaluation, ainsi que tout plagiat, donne lieu à la saisine du Conseil de discipline. Selon la gravité des faits, les sanctions possibles sont : • l'avertissement ; • le blâme ; • la note de 0/20 au module concerné, sans accès au rattrapage ; • l'exclusion temporaire de l'École pour une durée maximale d'un an ; • l'exclusion définitive.",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 4,
+    "section": "Article 19 — Fraude et plagiat",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p4-structurel-2",
+    "text": "Article 20 — Outils d'intelligence artificielle générative L'utilisation d'outils d'IA générative dans un travail évalué n'est autorisée que si la fiche module ou l'enseignant responsable l'autorise explicitement. Lorsqu'elle est autorisée, l'étudiant doit indiquer les outils utilisés et la nature de leur contribution. Une utilisation non autorisée ou non déclarée est assimilée à une fraude au sens de l'article 19. Des règles particulières au PFE peuvent être fixées par note de service.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -234,8 +325,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p4-structurel-2",
-    "texte": "Titre VIII — Dispositions finales Article 21 — Entrée en vigueur",
+    "id": "EIH-DE-REG-2026-p4-structurel-3",
+    "text": "Titre VIII — Dispositions finales Article 21 — Entrée en vigueur Le présent règlement entre en vigueur le 14 septembre 2026. Il peut être complété ou modifié par des notes de service de la Direction des Études, qui précisent leur date d'application.",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -247,21 +338,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-REG-2026-p4-structurel-3",
-    "texte": "Moyenne générale du cycle : supérieure ou égale à 16/20 — Mention : Très bien",
-    "file": "01_Reglement_des_etudes_2026-2027.pdf",
-    "reference": "EIH-DE-REG-2026",
-    "type": "Règlement officiel",
-    "date": "2026-07-10",
-    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
-    "statut": "En vigueur à compter du 14 septembre 2026",
-    "page": 4,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-DE-REG-2026-p4-structurel-4",
-    "texte": "Moyenne générale du cycle : de 14/20 à moins de 16/20 — Mention : Bien",
+    "text": "Moyenne générale du cycle : supérieure ou égale à 16/20 — Mention : Très bien",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -274,7 +352,7 @@
   },
   {
     "id": "EIH-DE-REG-2026-p4-structurel-5",
-    "texte": "Moyenne générale du cycle : de 12/20 à moins de 14/20 — Mention : Assez bien",
+    "text": "Moyenne générale du cycle : de 14/20 à moins de 16/20 — Mention : Bien",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -287,7 +365,20 @@
   },
   {
     "id": "EIH-DE-REG-2026-p4-structurel-6",
-    "texte": "Moyenne générale du cycle : de 10/20 à moins de 12/20 — Mention : Passable",
+    "text": "Moyenne générale du cycle : de 12/20 à moins de 14/20 — Mention : Assez bien",
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "reference": "EIH-DE-REG-2026",
+    "type": "Règlement officiel",
+    "date": "2026-07-10",
+    "version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+    "statut": "En vigueur à compter du 14 septembre 2026",
+    "page": 4,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-REG-2026-p4-structurel-7",
+    "text": "Moyenne générale du cycle : de 10/20 à moins de 12/20 — Mention : Passable",
     "file": "01_Reglement_des_etudes_2026-2027.pdf",
     "reference": "EIH-DE-REG-2026",
     "type": "Règlement officiel",
@@ -300,7 +391,7 @@
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p1-structurel-0",
-    "texte": "1. Présentation générale 2. Démarches communes à tous les stages",
+    "text": "Guide des stages et du Projet de Fin d'Études Stage d'initiation (1A), stage technique (2A) et PFE (3A) — édition 2026 1. Présentation générale Le cycle ingénieur de l'EIH comprend trois périodes en milieu professionnel obligatoires. Elles permettent à l'étudiant de découvrir l'entreprise, puis de mettre en œuvre des compétences techniques, et enfin de conduire un projet d'ingénieur complet. Le Service des Relations Entreprises (SRE) accompagne les étudiants dans leur recherche et gère les conventions. 2. Démarches communes à tous les stages",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -308,12 +399,25 @@
     "version": "3.0",
     "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
     "page": 1,
-    "section": "2. Démarches communes à tous les stages",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p1-structurel-1",
-    "texte": "2.1 Recherche du stage 2.2 Convention de stage",
+    "text": "2.1 Recherche du stage Les offres reçues par l'École sont publiées sur le Portail Stages. L'étudiant peut aussi proposer une entreprise qu'il a trouvée lui-même. Pour le stage technique et le PFE, le sujet doit être en lien avec la filière de l'étudiant (IGL, SDIA ou CSR).",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 1,
+    "section": "2.1 Recherche du stage",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p1-structurel-2",
+    "text": "2.2 Convention de stage Aucun stage ne peut commencer sans une convention signée par trois parties : l'étudiant, l'entreprise d'accueil et l'École. La convention signée doit être déposée sur le Portail Stages au moins 15 jours calendaires avant le début du stage. Un stage effectué sans convention n'est pas reconnu et ne peut pas être validé. La convention précise notamment : les dates, le lieu, le sujet, le nom de l'encadrant en entreprise, les horaires et les conditions d'accueil. Toute modification (dates, sujet) fait l'objet d'un avenant.",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -325,21 +429,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SRE-GUIDE-2026-p1-structurel-2",
-    "texte": "Période : Stage d'initiation — Année : Fin de 1A — Durée minimale : 4 semaines — Période de réalisation : Entre le 1er juillet et le 31 août — Crédits / rattachement : 2 ECTS, validés en S3",
-    "file": "02_Guide_stages_PFE_2026.pdf",
-    "reference": "EIH-SRE-GUIDE-2026",
-    "type": "Guide pratique",
-    "date": "2026-06-15",
-    "version": "3.0",
-    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-SRE-GUIDE-2026-p1-structurel-3",
-    "texte": "Période : Stage technique — Année : Fin de 2A — Durée minimale : 8 semaines — Période de réalisation : Entre le 1er juillet et le 15 septembre — Crédits / rattachement : 4 ECTS, validés en S5",
+    "text": "Période : Stage d'initiation — Année : Fin de 1A — Durée minimale : 4 semaines — Période de réalisation : Entre le 1er juillet et le 31 août — Crédits / rattachement : 2 ECTS, validés en S3",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -352,7 +443,20 @@
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p1-structurel-4",
-    "texte": "Période : Projet de Fin d'Études — Année : 3A (S6) — Durée minimale : 16 semaines (maximum 24) — Période de réalisation : Début entre le 1er février et le 1er mars — Crédits / rattachement : 30 ECTS (semestre S6)",
+    "text": "Période : Stage technique — Année : Fin de 2A — Durée minimale : 8 semaines — Période de réalisation : Entre le 1er juillet et le 15 septembre — Crédits / rattachement : 4 ECTS, validés en S5",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 1,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p1-structurel-5",
+    "text": "Période : Projet de Fin d'Études — Année : 3A (S6) — Durée minimale : 16 semaines (maximum 24) — Période de réalisation : Début entre le 1er février et le 1er mars — Crédits / rattachement : 30 ECTS (semestre S6)",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -365,7 +469,7 @@
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p2-structurel-0",
-    "texte": "2.3 Interruption ou problème pendant le stage 3. Stage d'initiation (fin de 1A)",
+    "text": "2.3 Interruption ou problème pendant le stage En cas de difficulté sérieuse (sujet sans rapport avec la convention, conditions inadaptées), l'étudiant contacte sans délai son encadrant académique ou le SRE. Une interruption n'est possible qu'avec l'accord écrit des trois signataires. 3. Stage d'initiation (fin de 1A) Le stage d'initiation a pour objectif de découvrir le fonctionnement d'une organisation et le rôle des différents métiers. Il peut se dérouler dans tout type de structure (entreprise, administration, association). • Durée minimale : 4 semaines, entre le 1er juillet et le 31 août. • Livrable : un rapport de 10 à 15 pages décrivant la structure d'accueil et les missions réalisées. • Dépôt du rapport : au plus tard le 30 septembre de l'année de 2A. • Évaluation : le rapport et la fiche d'appréciation de l'entreprise sont évalués par un enseignant. Le stage est validé si la note est supérieure ou égale à 10/20. Il compte pour 2 crédits en S3. 4. Stage technique (fin de 2A) Le stage technique permet de participer à une réalisation concrète (développement, analyse de données, administration réseau, audit de sécurité, etc.) en lien avec la filière. • Durée minimale : 8 semaines, entre le 1er juillet et le 15 septembre. • Livrables : un rapport de 20 à 30 pages et une soutenance de 15 minutes suivie de 10 minutes de questions. • Soutenance : organisée en octobre de la 3A. Les étudiants en mobilité au semestre S5 soutiennent à distance, par visioconférence (voir la Charte de mobilité internationale). • Évaluation : appréciation de l'entreprise (40 %), rapport (30 %), soutenance (30 %). Le stage compte pour 4 crédits en S5. 5. Projet de Fin d'Études (PFE)",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -373,12 +477,12 @@
     "version": "3.0",
     "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
     "page": 2,
-    "section": "3. Stage d'initiation (fin de 1A)",
+    "section": "2.3 Interruption ou problème pendant le stage",
     "strategie": "structurel"
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p2-structurel-1",
-    "texte": "4. Stage technique (fin de 2A) 5. Projet de Fin d'Études (PFE)",
+    "text": "5.1 Objectifs Le PFE constitue le semestre S6. Il place l'étudiant en situation d'ingénieur sur un projet de longue durée : analyse du besoin, conception, réalisation, validation et communication des résultats.",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -386,12 +490,12 @@
     "version": "3.0",
     "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
     "page": 2,
-    "section": "5. Projet de Fin d'Études (PFE)",
+    "section": "5.1 Objectifs",
     "strategie": "structurel"
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p2-structurel-2",
-    "texte": "5.1 Objectifs 5.2 Choix et validation du sujet",
+    "text": "5.2 Choix et validation du sujet L'étudiant dépose une fiche sujet sur le Portail Stages avant la date limite fixée par le Calendrier académique. Le responsable de filière valide le sujet en vérifiant son niveau, sa cohérence avec la filière et la faisabilité dans la durée prévue. Un sujet refusé peut être reformulé une fois.",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -404,7 +508,20 @@
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p2-structurel-3",
-    "texte": "5.3 Durée et période 5.4 Encadrement",
+    "text": "5.3 Durée et période Le PFE débute entre le 1er février et le 1er mars. Sa durée est comprise entre 16 et 24 semaines. Le choix de la date de soutenance (session 1 ou session 2) dépend de la date de fin du PFE.",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 2,
+    "section": "5.3 Durée et période",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p2-structurel-4",
+    "text": "5.4 Encadrement Chaque PFE est suivi par deux encadrants : • un encadrant en entreprise, qui guide le travail au quotidien ;",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -417,7 +534,33 @@
   },
   {
     "id": "EIH-SRE-GUIDE-2026-p3-structurel-0",
-    "texte": "5.5 Rapport de PFE 5.6 Soutenance",
+    "text": "• un encadrant académique, enseignant de l'École, qui veille à la qualité scientifique et au respect des règles du cycle. Un bilan de mi-parcours est réalisé à la moitié de la durée prévue, par une visite ou par visioconférence, en présence de l'étudiant et des deux encadrants. Il donne lieu à une fiche de suivi déposée sur le Portail Stages.",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 3,
+    "section": "",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-1",
+    "text": "5.5 Rapport de PFE • Longueur : 40 à 70 pages hors annexes. • Structure recommandée : introduction et contexte, état de l'art, analyse et conception, réalisation, tests et évaluation, conclusion et perspectives, bibliographie, annexes. • Dépôt : version PDF sur le Portail Stages au plus tard 10 jours calendaires avant la soutenance. • Contrôle anti-plagiat : chaque rapport est analysé par l'outil de détection de similarité de l'École. Un taux de similarité supérieur à 25 % entraîne un examen du rapport par une commission, qui peut saisir le Conseil de discipline (article 19 du Règlement des études).",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 3,
+    "section": "5.5 Rapport de PFE",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-2",
+    "text": "5.6 Soutenance La soutenance dure 30 minutes de présentation suivies de 20 minutes d'échanges avec un jury de trois membres : un président (enseignant de l'École), l'encadrant académique et l'encadrant en entreprise ou son représentant. Deux sessions sont organisées chaque année (voir le Calendrier académique) : la session 1 en juillet et la session 2 en septembre, réservée notamment aux PFE terminant après la mi-juillet et aux PFE réalisés à l'étranger. L'entreprise peut demander une soutenance à huis clos pour des raisons de confidentialité. La demande est adressée au SRE au moins un mois avant la soutenance.",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -429,8 +572,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SRE-GUIDE-2026-p3-structurel-1",
-    "texte": "5.7 Évaluation du PFE 5.8 PFE à l'étranger",
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-3",
+    "text": "5.7 Évaluation du PFE Le PFE est validé si la note est supérieure ou égale à 10/20. Il ne peut pas être compensé. En cas de note inférieure à 10/20, le jury peut exiger un complément de travail d'une durée maximale de deux mois, suivi d'une nouvelle soutenance lors de la session suivante.",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 3,
+    "section": "5.7 Évaluation du PFE",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-4",
+    "text": "5.8 PFE à l'étranger Un PFE peut être réalisé dans une entreprise ou un laboratoire à l'étranger, avec l'accord du responsable de filière et du Bureau des Relations Internationales. Les règles de durée, de rapport et d'évaluation sont identiques. La soutenance peut avoir lieu par visioconférence. 6. Contacts • Questions sur les offres et les conventions : Service des Relations Entreprises (SRE), via le Portail Stages. • Questions pédagogiques sur le sujet de PFE : responsable de filière. • Questions sur un stage ou un PFE à l'étranger : Bureau des Relations Internationales (BRI).",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -442,47 +598,34 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SRE-GUIDE-2026-p3-structurel-2",
-    "texte": "6. Contacts",
-    "file": "02_Guide_stages_PFE_2026.pdf",
-    "reference": "EIH-SRE-GUIDE-2026",
-    "type": "Guide pratique",
-    "date": "2026-06-15",
-    "version": "3.0",
-    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
-    "page": 3,
-    "section": "6. Contacts",
-    "strategie": "structurel"
-  },
-  {
-    "id": "EIH-SRE-GUIDE-2026-p3-structurel-3",
-    "texte": "Composante : Travail en entreprise — Pondération : 30 % — Évaluateur : Encadrant en entreprise (fiche d'évaluation)",
-    "file": "02_Guide_stages_PFE_2026.pdf",
-    "reference": "EIH-SRE-GUIDE-2026",
-    "type": "Guide pratique",
-    "date": "2026-06-15",
-    "version": "3.0",
-    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
-    "page": 3,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
-    "id": "EIH-SRE-GUIDE-2026-p3-structurel-4",
-    "texte": "Composante : Rapport écrit — Pondération : 30 % — Évaluateur : Jury",
-    "file": "02_Guide_stages_PFE_2026.pdf",
-    "reference": "EIH-SRE-GUIDE-2026",
-    "type": "Guide pratique",
-    "date": "2026-06-15",
-    "version": "3.0",
-    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
-    "page": 3,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-SRE-GUIDE-2026-p3-structurel-5",
-    "texte": "Composante : Soutenance orale — Pondération : 40 % — Évaluateur : Jury",
+    "text": "Composante : Travail en entreprise — Pondération : 30 % — Évaluateur : Encadrant en entreprise (fiche d'évaluation)",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 3,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-6",
+    "text": "Composante : Rapport écrit — Pondération : 30 % — Évaluateur : Jury",
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "reference": "EIH-SRE-GUIDE-2026",
+    "type": "Guide pratique",
+    "date": "2026-06-15",
+    "version": "3.0",
+    "statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures",
+    "page": 3,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SRE-GUIDE-2026-p3-structurel-7",
+    "text": "Composante : Soutenance orale — Pondération : 40 % — Évaluateur : Jury",
     "file": "02_Guide_stages_PFE_2026.pdf",
     "reference": "EIH-SRE-GUIDE-2026",
     "type": "Guide pratique",
@@ -495,7 +638,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-0",
-    "texte": "1. Objectifs de la mobilité 2. Formes de mobilité proposées",
+    "text": "Charte de mobilité internationale Semestre d'études, double diplôme et PFE à l'étranger — étudiants du cycle ingénieur 1. Objectifs de la mobilité L'EIH encourage ses étudiants à effectuer une partie de leur formation à l'étranger. La mobilité développe les compétences linguistiques, l'adaptation à d'autres méthodes de travail et l'ouverture internationale recherchée par les employeurs. Elle reste facultative et ne constitue pas une condition d'obtention du diplôme. 2. Formes de mobilité proposées La présente charte traite principalement du semestre d'études et du double diplôme. Pour le PFE à l'étranger, l'étudiant obtient l'accord du responsable de filière et du BRI, puis suit la procédure habituelle du PFE. 3. Établissements partenaires Les établissements ci-dessous sont des partenaires fictifs créés pour ce corpus pédagogique. Le nombre de places est fixé pour les départs de l'année 2027-2028.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -503,12 +646,12 @@
     "version": "2.1",
     "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
     "page": 1,
-    "section": "2. Formes de mobilité proposées",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-1",
-    "texte": "3. Établissements partenaires",
+    "text": "Forme : Semestre d'études — Période : Semestre S5 (3A) — Durée : Un semestre — Effet sur le cursus : Les 30 crédits de S5 sont obtenus chez le partenaire.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -516,12 +659,12 @@
     "version": "2.1",
     "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
     "page": 1,
-    "section": "3. Établissements partenaires",
+    "section": "Tableau",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-2",
-    "texte": "Forme : Semestre d'études — Période : Semestre S5 (3A) — Durée : Un semestre — Effet sur le cursus : Les 30 crédits de S5 sont obtenus chez le partenaire.",
+    "text": "Forme : Double diplôme — Période : S5 + un semestre supplémentaire chez le partenaire, puis PFE — Durée : Trois semestres — Effet sur le cursus : Le cycle est prolongé d'un semestre ; l'étudiant obtient le diplôme de l'EIH et celui du partenaire.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -534,7 +677,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-3",
-    "texte": "Forme : Double diplôme — Période : S5 + un semestre supplémentaire chez le partenaire, puis PFE — Durée : Trois semestres — Effet sur le cursus : Le cycle est prolongé d'un semestre ; l'étudiant obtient le diplôme de l'EIH et celui du partenaire.",
+    "text": "Forme : PFE à l'étranger — Période : Semestre S6 (3A) — Durée : Durée fixée par les règles du PFE en vigueur — Effet sur le cursus : Règles du Guide des stages et du PFE ; soutenance possible à distance.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -547,7 +690,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-4",
-    "texte": "Forme : PFE à l'étranger — Période : Semestre S6 (3A) — Durée : Durée fixée par les règles du PFE en vigueur — Effet sur le cursus : Règles du Guide des stages et du PFE ; soutenance possible à distance.",
+    "text": "Établissement partenaire (fictif) : Université Polytechnique de Valmorel — Langue d'enseignement : Anglais — Places : 4 — Double diplôme : Non",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -560,7 +703,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-5",
-    "texte": "Établissement partenaire (fictif) : Université Polytechnique de Valmorel — Langue d'enseignement : Anglais — Places : 4 — Double diplôme : Non",
+    "text": "Établissement partenaire (fictif) : Institut Nordique des Sciences Numériques — Langue d'enseignement : Anglais — Places : 3 — Double diplôme : Oui",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -573,7 +716,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-6",
-    "texte": "Établissement partenaire (fictif) : Institut Nordique des Sciences Numériques — Langue d'enseignement : Anglais — Places : 3 — Double diplôme : Oui",
+    "text": "Établissement partenaire (fictif) : École Technique de Saint-Aurèle — Langue d'enseignement : Français — Places : 5 — Double diplôme : Non",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -586,7 +729,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-7",
-    "texte": "Établissement partenaire (fictif) : École Technique de Saint-Aurèle — Langue d'enseignement : Français — Places : 5 — Double diplôme : Non",
+    "text": "Établissement partenaire (fictif) : Universidad Técnica de Costaluz — Langue d'enseignement : Espagnol — Places : 2 — Double diplôme : Non",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -599,20 +742,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p1-structurel-8",
-    "texte": "Établissement partenaire (fictif) : Universidad Técnica de Costaluz — Langue d'enseignement : Espagnol — Places : 2 — Double diplôme : Non",
-    "file": "03_Charte_mobilite_internationale.pdf",
-    "reference": "EIH-BRI-CHARTE-2026",
-    "type": "Charte et procédure",
-    "date": "2026-04-20",
-    "version": "2.1",
-    "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
-    "id": "EIH-BRI-CHARTE-2026-p1-structurel-9",
-    "texte": "Établissement partenaire (fictif) : Hochschule Lindenfeld — Langue d'enseignement : Anglais ou allemand — Places : 2 — Double diplôme : Oui",
+    "text": "Établissement partenaire (fictif) : Hochschule Lindenfeld — Langue d'enseignement : Anglais ou allemand — Places : 2 — Double diplôme : Oui",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -625,7 +755,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-0",
-    "texte": "4. Conditions d'éligibilité 5. Procédure de candidature",
+    "text": "Au total, 16 places de semestre d'études sont ouvertes, dont 5 places en double diplôme (Institut Nordique : 3 ; Hochschule Lindenfeld : 2). 4. Conditions d'éligibilité Pour candidater à un semestre d'études ou à un double diplôme, l'étudiant doit remplir toutes les conditions suivantes : 1. être inscrit en 2A au moment de la candidature ; 2. avoir obtenu une moyenne d'au moins 12/20 au semestre S3 ; 3. justifier d'un niveau B2 (CECRL) dans la langue d'enseignement de l'établissement demandé, attesté par une certification reconnue par le Département des Langues ; 4. n'avoir fait l'objet d'aucune sanction disciplinaire. La sélection est confirmée à l'issue de la 2A : l'étudiant doit valider sa 2A sans dette (aucun passage conditionnel) avec une moyenne annuelle d'au moins 12/20. À défaut, la mobilité est annulée et l'étudiant suit le semestre S5 à l'EIH. Pour le double diplôme, la moyenne de S3 requise est portée à 14/20. 5. Procédure de candidature Les critères de sélection sont la moyenne de S3 (60 %), la qualité du projet de mobilité (25 %) et le niveau de langue (15 %). En cas d'égalité, la priorité revient à l'étudiant n'ayant jamais redoublé. 6. Reconnaissance des crédits",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -633,12 +763,12 @@
     "version": "2.1",
     "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
     "page": 2,
-    "section": "5. Procédure de candidature",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-1",
-    "texte": "6. Reconnaissance des crédits 6.1 Contrat d'études",
+    "text": "6.1 Contrat d'études Le contrat d'études (learning agreement) liste les cours suivis chez le partenaire. Il doit représenter 30 crédits ECTS pour un semestre et être approuvé par le responsable de filière, qui vérifie la cohérence avec les compétences du semestre S5. Toute modification après l'arrivée doit être validée dans un délai d'un mois.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -651,7 +781,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-2",
-    "texte": "6.2 Conversion des notes",
+    "text": "6.2 Conversion des notes Les notes obtenues chez le partenaire sont converties sur 20 par la commission de mobilité, à l'aide d'une table de correspondance propre à chaque établissement. Les notes converties entrent dans le calcul de la moyenne du semestre S5.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -664,7 +794,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-3",
-    "texte": "Étape : Dépôt du dossier (CV, lettre de motivation, relevé de notes S3, certificat de langue, trois vœux classés) — Échéance : 15 mars de l'année précédant le départ — Responsable : Étudiant",
+    "text": "Étape : Dépôt du dossier (CV, lettre de motivation, relevé de notes S3, certificat de langue, trois vœux classés) — Échéance : 15 mars de l'année précédant le départ — Responsable : Étudiant",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -677,7 +807,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-4",
-    "texte": "Étape : Réunion de la commission de sélection — Échéance : Fin mars — Responsable : BRI et responsables de filière",
+    "text": "Étape : Réunion de la commission de sélection — Échéance : Fin mars — Responsable : BRI et responsables de filière",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -690,7 +820,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-5",
-    "texte": "Étape : Publication des résultats — Échéance : Au plus tard le 15 avril — Responsable : BRI",
+    "text": "Étape : Publication des résultats — Échéance : Au plus tard le 15 avril — Responsable : BRI",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -703,7 +833,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-6",
-    "texte": "Étape : Signature du contrat d'études (learning agreement) — Échéance : Avant le 30 juin — Responsable : Étudiant, responsable de filière, partenaire",
+    "text": "Étape : Signature du contrat d'études (learning agreement) — Échéance : Avant le 30 juin — Responsable : Étudiant, responsable de filière, partenaire",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -716,7 +846,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p2-structurel-7",
-    "texte": "Étape : Confirmation de la sélection après les résultats de 2A — Échéance : Après les délibérations de juillet — Responsable : Jury de 2A et BRI",
+    "text": "Étape : Confirmation de la sélection après les résultats de 2A — Échéance : Après les délibérations de juillet — Responsable : Jury de 2A et BRI",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -729,7 +859,20 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p3-structurel-0",
-    "texte": "6.3 Cours non validés 6.4 Stage technique",
+    "text": "6.3 Cours non validés Si un cours n'est pas validé chez le partenaire et n'est pas compensé, l'étudiant passe une épreuve équivalente lors de la session de rattrapage de l'EIH, dans les conditions du Règlement des études.",
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "reference": "EIH-BRI-CHARTE-2026",
+    "type": "Charte et procédure",
+    "date": "2026-04-20",
+    "version": "2.1",
+    "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
+    "page": 3,
+    "section": "6.3 Cours non validés",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-BRI-CHARTE-2026-p3-structurel-1",
+    "text": "6.4 Stage technique Le stage technique de fin de 2A doit être effectué avant le départ. Sa soutenance, prévue en octobre, se déroule par visioconférence pour les étudiants en mobilité. 7. Aides financières L'École finance des aides propres, dans la limite du budget annuel. La demande se fait dans le même dossier que la candidature. La Bourse Hélianthe Mobilité est attribuée selon deux critères : le mérite académique (60 %) et la situation sociale (40 %). Pendant la mobilité, l'étudiant reste inscrit à l'EIH. 8. Obligations de l'étudiant • respecter le règlement de l'établissement d'accueil et celui de l'EIH ; • informer le BRI de toute difficulté ou de tout changement de cours ; • remettre un rapport de séjour dans le mois qui suit le retour ; • participer à une réunion d'information destinée aux futurs candidats. Le non-respect de ces obligations peut entraîner le remboursement des aides perçues.",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -741,21 +884,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-BRI-CHARTE-2026-p3-structurel-1",
-    "texte": "7. Aides financières 8. Obligations de l'étudiant",
-    "file": "03_Charte_mobilite_internationale.pdf",
-    "reference": "EIH-BRI-CHARTE-2026",
-    "type": "Charte et procédure",
-    "date": "2026-04-20",
-    "version": "2.1",
-    "statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027",
-    "page": 3,
-    "section": "8. Obligations de l'étudiant",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-BRI-CHARTE-2026-p3-structurel-2",
-    "texte": "Aide (fictive) : Bourse Hélianthe Mobilité — Montant : 5 000 MAD par mois, pendant 5 mois au maximum — Bénéficiaires : 10 étudiants au plus par an",
+    "text": "Aide (fictive) : Bourse Hélianthe Mobilité — Montant : 5 000 MAD par mois, pendant 5 mois au maximum — Bénéficiaires : 10 étudiants au plus par an",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -768,7 +898,7 @@
   },
   {
     "id": "EIH-BRI-CHARTE-2026-p3-structurel-3",
-    "texte": "Aide (fictive) : Aide forfaitaire au voyage — Montant : 3 000 MAD, versés une seule fois — Bénéficiaires : Tous les étudiants retenus pour un semestre d'études ou un double diplôme",
+    "text": "Aide (fictive) : Aide forfaitaire au voyage — Montant : 3 000 MAD, versés une seule fois — Bénéficiaires : Tous les étudiants retenus pour un semestre d'études ou un double diplôme",
     "file": "03_Charte_mobilite_internationale.pdf",
     "reference": "EIH-BRI-CHARTE-2026",
     "type": "Charte et procédure",
@@ -781,7 +911,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-0",
-    "texte": "1. Principes 2. Semestres impairs (S1, S3, S5)",
+    "text": "Calendrier académique 2026-2027 Périodes d'enseignement, examens, rattrapages, échéances administratives et soutenances 1. Principes Ce calendrier fixe les grandes dates de l'année universitaire 2026-2027 pour les trois années du cycle ingénieur. Les semestres impairs (S1, S3, S5) se déroulent de septembre à janvier ; les semestres pairs (S2, S4) de février à juin. Le semestre S6 des étudiants de 3A est consacré au Projet de Fin d'Études. Les jours fériés officiels sont chômés ; les épreuves qui tomberaient un jour férié sont reprogrammées. 2. Semestres impairs (S1, S3, S5) 3. Semestres pairs (S2, S4) et semestre S6",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -789,12 +919,12 @@
     "version": "1.0",
     "statut": "En vigueur ; les modifications éventuelles sont publiées par note de service",
     "page": 1,
-    "section": "2. Semestres impairs (S1, S3, S5)",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-1",
-    "texte": "3. Semestres pairs (S2, S4) et semestre S6",
+    "text": "Date ou période : Lundi 14 septembre 2026 — Événement : Rentrée universitaire et début des cours — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -802,12 +932,12 @@
     "version": "1.0",
     "statut": "En vigueur ; les modifications éventuelles sont publiées par note de service",
     "page": 1,
-    "section": "3. Semestres pairs (S2, S4) et semestre S6",
+    "section": "Tableau",
     "strategie": "structurel"
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-2",
-    "texte": "Date ou période : Lundi 14 septembre 2026 — Événement : Rentrée universitaire et début des cours — Public : 1A, 2A, 3A",
+    "text": "Date ou période : Mercredi 30 septembre 2026 — Événement : Date limite de dépôt du rapport de stage d'initiation — Public : 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -820,7 +950,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-3",
-    "texte": "Date ou période : Mercredi 30 septembre 2026 — Événement : Date limite de dépôt du rapport de stage d'initiation — Public : 2A",
+    "text": "Date ou période : Du lundi 4 au vendredi 15 octobre 2026 — Événement : Soutenances des stages techniques (à distance pour les étudiants en mobilité) — Public : 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -833,7 +963,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-4",
-    "texte": "Date ou période : Du lundi 4 au vendredi 15 octobre 2026 — Événement : Soutenances des stages techniques (à distance pour les étudiants en mobilité) — Public : 3A",
+    "text": "Date ou période : Du lundi 26 octobre au dimanche 1er novembre 2026 — Événement : Congé de mi-semestre — Public : Tous",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -846,7 +976,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-5",
-    "texte": "Date ou période : Du lundi 26 octobre au dimanche 1er novembre 2026 — Événement : Congé de mi-semestre — Public : Tous",
+    "text": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes d'aménagement d'épreuves (Bureau de la Vie Étudiante) — Public : Tous",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -859,7 +989,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-6",
-    "texte": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes d'aménagement d'épreuves (Bureau de la Vie Étudiante) — Public : Tous",
+    "text": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes de subvention des clubs — Public : Bureaux des clubs",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -872,7 +1002,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-7",
-    "texte": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes de subvention des clubs — Public : Bureaux des clubs",
+    "text": "Date ou période : Mardi 15 décembre 2026 — Événement : Date limite de dépôt de la fiche sujet de PFE — Public : 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -885,7 +1015,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-8",
-    "texte": "Date ou période : Mardi 15 décembre 2026 — Événement : Date limite de dépôt de la fiche sujet de PFE — Public : 3A",
+    "text": "Date ou période : Du lundi 21 décembre 2026 au dimanche 3 janvier 2027 — Événement : Vacances d'hiver — Public : Tous",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -898,7 +1028,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-9",
-    "texte": "Date ou période : Du lundi 21 décembre 2026 au dimanche 3 janvier 2027 — Événement : Vacances d'hiver — Public : Tous",
+    "text": "Date ou période : Vendredi 15 janvier 2027 — Événement : Fin des cours des semestres impairs — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -911,7 +1041,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-10",
-    "texte": "Date ou période : Vendredi 15 janvier 2027 — Événement : Fin des cours des semestres impairs — Public : 1A, 2A, 3A",
+    "text": "Date ou période : Du lundi 18 au vendredi 29 janvier 2027 — Événement : Examens finaux S1, S3, S5 — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -924,7 +1054,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-11",
-    "texte": "Date ou période : Du lundi 18 au vendredi 29 janvier 2027 — Événement : Examens finaux S1, S3, S5 — Public : 1A, 2A, 3A",
+    "text": "Date ou période : Vendredi 5 février 2027 — Événement : Publication des résultats des semestres impairs — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -937,20 +1067,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p1-structurel-12",
-    "texte": "Date ou période : Vendredi 5 février 2027 — Événement : Publication des résultats des semestres impairs — Public : 1A, 2A, 3A",
-    "file": "04_Calendrier_academique_2026-2027.pdf",
-    "reference": "EIH-DE-CAL-2026",
-    "type": "Calendrier officiel",
-    "date": "2026-07-10",
-    "version": "1.0",
-    "statut": "En vigueur ; les modifications éventuelles sont publiées par note de service",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
-    "id": "EIH-DE-CAL-2026-p1-structurel-13",
-    "texte": "Date ou période : Vendredi 12 février 2027 — Événement : Date limite d'inscription au rattrapage des modules S1, S3, S5 — Public : 1A, 2A, 3A",
+    "text": "Date ou période : Vendredi 12 février 2027 — Événement : Date limite d'inscription au rattrapage des modules S1, S3, S5 — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -963,7 +1080,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-0",
-    "texte": "4. Rattrapages, délibérations et soutenances",
+    "text": "4. Rattrapages, délibérations et soutenances Rappel : le rapport de PFE doit être déposé sur le Portail Stages avant la soutenance, dans le délai fixé par les règles du PFE en vigueur (voir le Guide des stages et du PFE et les éventuelles notes de service). L'inscription au rattrapage est obligatoire (Règlement des études, article 14).",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -971,12 +1088,12 @@
     "version": "1.0",
     "statut": "En vigueur ; les modifications éventuelles sont publiées par note de service",
     "page": 2,
-    "section": "4. Rattrapages, délibérations et soutenances",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-1",
-    "texte": "Date ou période : Du lundi 1er février au lundi 1er mars 2027 — Événement : Fenêtre de début du PFE — Public : 3A",
+    "text": "Date ou période : Du lundi 1er février au lundi 1er mars 2027 — Événement : Fenêtre de début du PFE — Public : 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -989,7 +1106,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-2",
-    "texte": "Date ou période : Lundi 8 février 2027 — Événement : Début des cours des semestres pairs — Public : 1A, 2A",
+    "text": "Date ou période : Lundi 8 février 2027 — Événement : Début des cours des semestres pairs — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1002,7 +1119,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-3",
-    "texte": "Date ou période : Lundi 15 mars 2027 — Événement : Date limite de candidature aux mobilités 2027-2028 — Public : 2A",
+    "text": "Date ou période : Lundi 15 mars 2027 — Événement : Date limite de candidature aux mobilités 2027-2028 — Public : 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1015,7 +1132,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-4",
-    "texte": "Date ou période : Du lundi 12 au dimanche 18 avril 2027 — Événement : Vacances de printemps — Public : 1A, 2A",
+    "text": "Date ou période : Du lundi 12 au dimanche 18 avril 2027 — Événement : Vacances de printemps — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1028,7 +1145,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-5",
-    "texte": "Date ou période : Vendredi 30 avril 2027 — Événement : Date limite des demandes d'année de césure — Public : 2A",
+    "text": "Date ou période : Vendredi 30 avril 2027 — Événement : Date limite des demandes d'année de césure — Public : 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1041,7 +1158,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-6",
-    "texte": "Date ou période : Lundi 31 mai 2027 — Événement : Date limite des demandes de changement de filière — Public : 1A",
+    "text": "Date ou période : Lundi 31 mai 2027 — Événement : Date limite des demandes de changement de filière — Public : 1A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1054,7 +1171,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-7",
-    "texte": "Date ou période : Vendredi 4 juin 2027 — Événement : Fin des cours des semestres pairs — Public : 1A, 2A",
+    "text": "Date ou période : Vendredi 4 juin 2027 — Événement : Fin des cours des semestres pairs — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1067,7 +1184,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-8",
-    "texte": "Date ou période : Du lundi 7 au vendredi 18 juin 2027 — Événement : Examens finaux S2, S4 — Public : 1A, 2A",
+    "text": "Date ou période : Du lundi 7 au vendredi 18 juin 2027 — Événement : Examens finaux S2, S4 — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1080,7 +1197,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-9",
-    "texte": "Date ou période : Mercredi 23 juin 2027 — Événement : Publication des résultats des semestres pairs — Public : 1A, 2A",
+    "text": "Date ou période : Mercredi 23 juin 2027 — Événement : Publication des résultats des semestres pairs — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1093,7 +1210,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-10",
-    "texte": "Date ou période : Mercredi 30 juin 2027 — Événement : Date limite d'inscription au rattrapage des modules S2, S4 — Public : 1A, 2A",
+    "text": "Date ou période : Mercredi 30 juin 2027 — Événement : Date limite d'inscription au rattrapage des modules S2, S4 — Public : 1A, 2A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1106,7 +1223,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-11",
-    "texte": "Date ou période : Du lundi 5 au vendredi 16 juillet 2027 — Événement : Session de rattrapage unique (modules de tous les semestres) — Public : Étudiants inscrits",
+    "text": "Date ou période : Du lundi 5 au vendredi 16 juillet 2027 — Événement : Session de rattrapage unique (modules de tous les semestres) — Public : Étudiants inscrits",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1119,7 +1236,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-12",
-    "texte": "Date ou période : Du lundi 12 au vendredi 23 juillet 2027 — Événement : Soutenances de PFE — session 1 — Public : 3A",
+    "text": "Date ou période : Du lundi 12 au vendredi 23 juillet 2027 — Événement : Soutenances de PFE — session 1 — Public : 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1132,7 +1249,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-13",
-    "texte": "Date ou période : Mercredi 21 juillet 2027 — Événement : Délibérations des jurys d'année et publication des décisions de passage — Public : 1A, 2A, 3A",
+    "text": "Date ou période : Mercredi 21 juillet 2027 — Événement : Délibérations des jurys d'année et publication des décisions de passage — Public : 1A, 2A, 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1145,7 +1262,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-14",
-    "texte": "Date ou période : Du lundi 20 septembre au vendredi 1er octobre 2027 — Événement : Soutenances de PFE — session 2 — Public : 3A",
+    "text": "Date ou période : Du lundi 20 septembre au vendredi 1er octobre 2027 — Événement : Soutenances de PFE — session 2 — Public : 3A",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1158,7 +1275,7 @@
   },
   {
     "id": "EIH-DE-CAL-2026-p2-structurel-15",
-    "texte": "Date ou période : Samedi 23 octobre 2027 — Événement : Cérémonie de remise des diplômes de la promotion 2027 — Public : Diplômés",
+    "text": "Date ou période : Samedi 23 octobre 2027 — Événement : Cérémonie de remise des diplômes de la promotion 2027 — Public : Diplômés",
     "file": "04_Calendrier_academique_2026-2027.pdf",
     "reference": "EIH-DE-CAL-2026",
     "type": "Calendrier officiel",
@@ -1171,7 +1288,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-0",
-    "texte": "1. Le Bureau de la Vie Étudiante 2. Services aux étudiants",
+    "text": "Guide de la vie étudiante et associative Services aux étudiants, accompagnement, clubs et associations — 2026-2027 1. Le Bureau de la Vie Étudiante Le Bureau de la Vie Étudiante (BVE) accompagne les étudiants dans tous les aspects de leur vie à l'École en dehors des enseignements : logement, santé, accessibilité, clubs et événements. Il est ouvert du lundi au vendredi, de 9h00 à 17h00, et joignable par la messagerie du Portail Scolarité. 2. Services aux étudiants",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1179,12 +1296,12 @@
     "version": "1.2",
     "statut": "En vigueur pour l'année 2026-2027",
     "page": 1,
-    "section": "2. Services aux étudiants",
+    "section": "",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-1",
-    "texte": "2.1 Bibliothèque et salles de travail 2.2 Logement",
+    "text": "2.1 Bibliothèque et salles de travail 2.2 Logement La résidence étudiante de l'École compte 320 lits en chambres individuelles. Les demandes se font sur le Portail Scolarité avant le 15 juillet pour l'année universitaire suivante. Les places sont attribuées en priorité aux étudiants entrant en 1A et aux étudiants boursiers. Les demandes déposées après cette date sont placées sur liste d'attente.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1197,7 +1314,20 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-2",
-    "texte": "2.3 Restauration 2.4 Santé et écoute",
+    "text": "2.3 Restauration Le restaurant de l'École sert le déjeuner du lundi au vendredi, de 11h45 à 14h00. Une cafétéria est ouverte de 8h00 à 18h00.",
+    "file": "05_Guide_vie_etudiante.pdf",
+    "reference": "EIH-BVE-GUIDE-2026",
+    "type": "Guide d'information",
+    "date": "2026-09-01",
+    "version": "1.2",
+    "statut": "En vigueur pour l'année 2026-2027",
+    "page": 1,
+    "section": "2.3 Restauration",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-BVE-GUIDE-2026-p1-structurel-3",
+    "text": "2.4 Santé et écoute L'infirmerie accueille les étudiants du lundi au vendredi, de 8h30 à 16h30. Une cellule d'écoute, animée par un psychologue, reçoit les étudiants sur rendez-vous, de façon confidentielle et gratuite. Les rendez-vous se prennent auprès du BVE.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1209,8 +1339,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-BVE-GUIDE-2026-p1-structurel-3",
-    "texte": "2.5 Sport",
+    "id": "EIH-BVE-GUIDE-2026-p1-structurel-4",
+    "text": "2.5 Sport L'Association sportive de l'École propose des entraînements de football, basket-ball, volley-ball, natation et course à pied. Les créneaux sont publiés en début de semestre. Le mercredi après-midi est libéré de cours en 1A et en 2A pour permettre la pratique sportive et associative.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1222,21 +1352,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-BVE-GUIDE-2026-p1-structurel-4",
-    "texte": "Service : Horaires de la bibliothèque — Modalités : Du lundi au vendredi de 8h30 à 20h00 ; le samedi de 9h00 à 13h00",
-    "file": "05_Guide_vie_etudiante.pdf",
-    "reference": "EIH-BVE-GUIDE-2026",
-    "type": "Guide d'information",
-    "date": "2026-09-01",
-    "version": "1.2",
-    "statut": "En vigueur pour l'année 2026-2027",
-    "page": 1,
-    "section": "Tableau",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-5",
-    "texte": "Service : Prêt d'ouvrages — Modalités : 4 ouvrages au maximum pour 3 semaines, renouvelable une fois",
+    "text": "Service : Horaires de la bibliothèque — Modalités : Du lundi au vendredi de 8h30 à 20h00 ; le samedi de 9h00 à 13h00",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1249,7 +1366,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-6",
-    "texte": "Service : Salles de travail en groupe — Modalités : Réservation sur le Portail Scolarité, 2 heures au maximum par jour et par groupe",
+    "text": "Service : Prêt d'ouvrages — Modalités : 4 ouvrages au maximum pour 3 semaines, renouvelable une fois",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1262,7 +1379,20 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p1-structurel-7",
-    "texte": "Service : Ressources numériques — Modalités : Accès aux bases documentaires depuis le réseau de l'École et à distance avec les identifiants étudiants",
+    "text": "Service : Salles de travail en groupe — Modalités : Réservation sur le Portail Scolarité, 2 heures au maximum par jour et par groupe",
+    "file": "05_Guide_vie_etudiante.pdf",
+    "reference": "EIH-BVE-GUIDE-2026",
+    "type": "Guide d'information",
+    "date": "2026-09-01",
+    "version": "1.2",
+    "statut": "En vigueur pour l'année 2026-2027",
+    "page": 1,
+    "section": "Tableau",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-BVE-GUIDE-2026-p1-structurel-8",
+    "text": "Service : Ressources numériques — Modalités : Accès aux bases documentaires depuis le réseau de l'École et à distance avec les identifiants étudiants",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1275,7 +1405,20 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-0",
-    "texte": "3. Accessibilité et aménagements d'études 3.1 Procédure",
+    "text": "3. Accessibilité et aménagements d'études Les étudiants en situation de handicap, ou atteints d'une maladie de longue durée, peuvent demander des aménagements d'études et d'épreuves, conformément à l'article 10 du Règlement des études.",
+    "file": "05_Guide_vie_etudiante.pdf",
+    "reference": "EIH-BVE-GUIDE-2026",
+    "type": "Guide d'information",
+    "date": "2026-09-01",
+    "version": "1.2",
+    "statut": "En vigueur pour l'année 2026-2027",
+    "page": 2,
+    "section": "",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-BVE-GUIDE-2026-p2-structurel-1",
+    "text": "3.1 Procédure 1. Prendre rendez-vous avec le référent accessibilité du BVE. 2. Déposer la demande accompagnée d'un certificat médical récent avant le 30 octobre, ou dans les 15 jours suivant l'apparition ou le diagnostic de la situation si celle-ci survient en cours d'année. 3. La commission des aménagements examine la demande et notifie sa décision dans un délai de 3 semaines. 4. Les aménagements accordés sont transmis aux enseignants concernés et au Service de la Scolarité.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1287,21 +1430,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-BVE-GUIDE-2026-p2-structurel-1",
-    "texte": "1. Prendre rendez-vous avec le référent accessibilité du BVE. 2. Déposer la demande accompagnée d'un certificat médical récent avant le 30 octobre, ou",
-    "file": "05_Guide_vie_etudiante.pdf",
-    "reference": "EIH-BVE-GUIDE-2026",
-    "type": "Guide d'information",
-    "date": "2026-09-01",
-    "version": "1.2",
-    "statut": "En vigueur pour l'année 2026-2027",
-    "page": 2,
-    "section": "2. Déposer la demande accompagnée d'un certificat médical récent avant le 30 octobre, ou",
-    "strategie": "structurel"
-  },
-  {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-2",
-    "texte": "3. La commission des aménagements examine la demande et notifie sa décision dans un délai 4. Les aménagements accordés sont transmis aux enseignants concernés et au Service de la",
+    "text": "3.2 Exemples d'aménagements • temps supplémentaire, généralement égal à un tiers du temps de l'épreuve (« tiers-temps ») ; • composition dans une salle séparée ; • mise à disposition d'un ordinateur ou d'un matériel adapté ; • adaptation du rythme de remise des travaux. Les informations médicales transmises restent confidentielles : seule la nature des aménagements est communiquée aux enseignants. 4. Clubs et associations",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1309,12 +1439,12 @@
     "version": "1.2",
     "statut": "En vigueur pour l'année 2026-2027",
     "page": 2,
-    "section": "4. Les aménagements accordés sont transmis aux enseignants concernés et au Service de la",
+    "section": "3.2 Exemples d'aménagements",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-3",
-    "texte": "3.2 Exemples d'aménagements 4. Clubs et associations",
+    "text": "4.1 Panorama L'École compte 18 clubs actifs, coordonnés par le Bureau des Étudiants (BDE), élu chaque année en octobre. Quelques exemples :",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1322,12 +1452,12 @@
     "version": "1.2",
     "statut": "En vigueur pour l'année 2026-2027",
     "page": 2,
-    "section": "4. Clubs et associations",
+    "section": "4.1 Panorama",
     "strategie": "structurel"
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-4",
-    "texte": "4.1 Panorama 4.2 Créer un club",
+    "text": "4.2 Créer un club Tout groupe d'étudiants peut proposer la création d'un club. Le dossier, déposé au BVE, comprend : • une liste d'au moins 10 étudiants membres fondateurs ; • le nom d'un enseignant référent ayant accepté de suivre le club ; • les statuts du club, rédigés à partir du modèle fourni par le BVE ; • une présentation des objectifs et des activités prévues.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1340,7 +1470,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-5",
-    "texte": "Club : Club IA et Données — Activités principales : Ateliers d'apprentissage automatique, participation à des compétitions de science des données",
+    "text": "Club : Club IA et Données — Activités principales : Ateliers d'apprentissage automatique, participation à des compétitions de science des données",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1353,7 +1483,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-6",
-    "texte": "Club : Club Robotique — Activités principales : Conception de robots, participation à des concours inter-écoles",
+    "text": "Club : Club Robotique — Activités principales : Conception de robots, participation à des concours inter-écoles",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1366,7 +1496,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-7",
-    "texte": "Club : Club Cybersécurité — Activités principales : Entraînements et compétitions de type « Capture The Flag » (CTF), conférences",
+    "text": "Club : Club Cybersécurité — Activités principales : Entraînements et compétitions de type « Capture The Flag » (CTF), conférences",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1379,7 +1509,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-8",
-    "texte": "Club : Club Entrepreneuriat — Activités principales : Accompagnement de projets de start-up, rencontres avec des entrepreneurs",
+    "text": "Club : Club Entrepreneuriat — Activités principales : Accompagnement de projets de start-up, rencontres avec des entrepreneurs",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1392,7 +1522,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-9",
-    "texte": "Club : Club Développement Web et Mobile — Activités principales : Projets open source, hackathons internes",
+    "text": "Club : Club Développement Web et Mobile — Activités principales : Projets open source, hackathons internes",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1405,7 +1535,7 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p2-structurel-10",
-    "texte": "Club : Club Théâtre — Activités principales : Ateliers hebdomadaires et spectacle de fin d'année",
+    "text": "Club : Club Théâtre — Activités principales : Ateliers hebdomadaires et spectacle de fin d'année",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1418,7 +1548,20 @@
   },
   {
     "id": "EIH-BVE-GUIDE-2026-p3-structurel-0",
-    "texte": "4.3 Financement des clubs 4.4 Organiser un événement",
+    "text": "La création est validée par la Direction de l'École après avis du BVE et du BDE. 4.3 Financement des clubs Chaque club peut demander une subvention annuelle à l'École. La demande est déposée au BVE avant le 30 octobre avec un budget prévisionnel. Le montant accordé est plafonné à 15 000 MAD par club et par an. Un bilan financier accompagné des justificatifs doit être remis avant le 30 juin ; un club qui ne remet pas son bilan ne peut pas recevoir de subvention l'année suivante.",
+    "file": "05_Guide_vie_etudiante.pdf",
+    "reference": "EIH-BVE-GUIDE-2026",
+    "type": "Guide d'information",
+    "date": "2026-09-01",
+    "version": "1.2",
+    "statut": "En vigueur pour l'année 2026-2027",
+    "page": 3,
+    "section": "4.3 Financement des clubs",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-BVE-GUIDE-2026-p3-structurel-1",
+    "text": "4.4 Organiser un événement Tout événement organisé dans les locaux de l'École (conférence, compétition, soirée) doit être déclaré au BVE au moins 3 semaines à l'avance. Les événements accueillant des personnes extérieures nécessitent l'accord préalable de la Direction.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1430,8 +1573,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-BVE-GUIDE-2026-p3-structurel-1",
-    "texte": "4.5 Reconnaissance de l'engagement",
+    "id": "EIH-BVE-GUIDE-2026-p3-structurel-2",
+    "text": "4.5 Reconnaissance de l'engagement Un étudiant ayant exercé une responsabilité au sein du bureau d'un club ou du BDE pendant au moins une année complète voit cet engagement mentionné dans le supplément au diplôme. Cet engagement ne donne pas lieu à l'attribution de crédits ECTS.",
     "file": "05_Guide_vie_etudiante.pdf",
     "reference": "EIH-BVE-GUIDE-2026",
     "type": "Guide d'information",
@@ -1444,7 +1587,33 @@
   },
   {
     "id": "EIH-SCOL-FAQ-2026-p1-structurel-0",
-    "texte": "Q1. Comment obtenir une attestation de scolarité ? Q2. Comment obtenir un relevé de notes officiel ?",
+    "text": "Foire aux questions — Scolarité Réponses aux questions les plus fréquentes adressées au Service de la Scolarité Cette FAQ rassemble les réponses aux questions les plus fréquentes. Elle renvoie, lorsque c'est utile, aux textes de référence : Règlement des études (EIH-DE-REG-2026), Calendrier académique (EIH-DE-CAL-2026), Guide des stages et du PFE (EIH-SRE-GUIDE-2026) et Guide de la vie étudiante (EIH-BVE-GUIDE-2026). Démarches administratives",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 1,
+    "section": "",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-1",
+    "text": "Q1. Comment obtenir une attestation de scolarité ? La demande se fait sur le Portail Scolarité, rubrique « Mes documents ». L'attestation est disponible en version signée électroniquement sous 3 jours ouvrables.",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 1,
+    "section": "Q1. Comment obtenir une attestation de scolarité ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-2",
+    "text": "Q2. Comment obtenir un relevé de notes officiel ? Les relevés provisoires sont consultables à tout moment sur le Portail Scolarité. Un relevé officiel signé peut être demandé sur le portail ; il est délivré sous 5 jours ouvrables après la publication des résultats définitifs du semestre.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1456,8 +1625,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SCOL-FAQ-2026-p1-structurel-1",
-    "texte": "Q3. J'ai perdu ma carte d'étudiant. Que faire ? Q4. J'ai été malade le jour d'un examen. Que dois-je faire ?",
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-3",
+    "text": "Q3. J'ai perdu ma carte d'étudiant. Que faire ? Signalez la perte au Service de la Scolarité, qui établit un duplicata dans un délai de 7 jours. En attendant, une attestation de scolarité peut servir de justificatif. Absences et examens",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 1,
+    "section": "Q3. J'ai perdu ma carte d'étudiant. Que faire ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-4",
+    "text": "Q4. J'ai été malade le jour d'un examen. Que dois-je faire ? Déposez un certificat médical au Service de la Scolarité ou sur le Portail Scolarité dans les 48 heures suivant la fin de votre absence (Règlement des études, article 6). Si le justificatif est accepté, vous passerez l'épreuve lors de la session de rattrapage et votre note ne sera pas plafonnée (article 9.2). Vous devez aussi vous inscrire au rattrapage dans les délais.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1469,8 +1651,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SCOL-FAQ-2026-p1-structurel-2",
-    "texte": "Q5. Que se passe-t-il si je manque un examen sans justificatif ? Q6. Comment contester une note ?",
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-5",
+    "text": "Q5. Que se passe-t-il si je manque un examen sans justificatif ? Vous obtenez 0/20 à l'épreuve. Si le module n'est ni validé ni compensé, vous pouvez vous présenter au rattrapage, avec une note plafonnée à 12/20.",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 1,
+    "section": "Q5. Que se passe-t-il si je manque un examen sans justificatif ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p1-structurel-6",
+    "text": "Q6. Comment contester une note ? Adressez une réclamation écrite au Service de la Scolarité dans les 5 jours ouvrables suivant la publication des résultats. Vous pouvez demander à consulter votre copie ; un rendez-vous est alors fixé avec l'enseignant responsable du module.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1483,7 +1678,20 @@
   },
   {
     "id": "EIH-SCOL-FAQ-2026-p2-structurel-0",
-    "texte": "Q7. Puis-je bénéficier d'un temps supplémentaire aux examens ? Q8. L'inscription au rattrapage est-elle automatique ?",
+    "text": "Q7. Puis-je bénéficier d'un temps supplémentaire aux examens ? Oui, si votre situation le justifie (handicap, maladie de longue durée). La demande se fait auprès du Bureau de la Vie Étudiante, avant le 30 octobre pour l'année en cours (voir le Guide de la vie étudiante). Rattrapage et passage",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 2,
+    "section": "Q7. Puis-je bénéficier d'un temps supplémentaire aux examens ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-1",
+    "text": "Q8. L'inscription au rattrapage est-elle automatique ? Non. Elle est obligatoire et se fait sur le Portail Scolarité dans les 5 jours ouvrables suivant la publication des résultats. Pour 2026-2027, les dates limites sont le 12 février 2027 (modules des semestres impairs) et le 30 juin 2027 (modules des semestres pairs). Sans inscription, votre note initiale est conservée.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1495,8 +1703,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SCOL-FAQ-2026-p2-structurel-1",
-    "texte": "Q9. Je suis en PFE. Puis-je passer le rattrapage d'un module de S5 ? Q10. Combien de crédits faut-il pour passer dans l'année supérieure ?",
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-2",
+    "text": "Q9. Je suis en PFE. Puis-je passer le rattrapage d'un module de S5 ? Oui. Les étudiants en PFE sont convoqués à la session de rattrapage de juillet et l'entreprise d'accueil est informée par l'École afin de libérer l'étudiant pendant la durée des épreuves. Prévenez votre encadrant en entreprise dès votre inscription.",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 2,
+    "section": "Q9. Je suis en PFE. Puis-je passer le rattrapage d'un module de S5 ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-3",
+    "text": "Q10. Combien de crédits faut-il pour passer dans l'année supérieure ? Une année est validée avec 60 crédits. Le jury peut toutefois autoriser un passage conditionnel s'il vous manque au plus 6 crédits ; ils devront être acquis l'année suivante (Règlement des études, article 15). Parcours",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1508,8 +1729,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SCOL-FAQ-2026-p2-structurel-2",
-    "texte": "Q11. Puis-je changer de filière ? Q12. Est-il possible de faire une année de césure ?",
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-4",
+    "text": "Q11. Puis-je changer de filière ? Le choix de filière s'effectue à la fin de la 1A. Une demande de changement de filière peut être déposée jusqu'au 31 mai de l'année de 1A ; elle est acceptée dans la limite des places disponibles dans la filière demandée. Aucun changement n'est possible après le début de la 2A.",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 2,
+    "section": "Q11. Puis-je changer de filière ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-5",
+    "text": "Q12. Est-il possible de faire une année de césure ? Oui, une seule année de césure est possible, entre la 2A et la 3A. La demande, accompagnée d'un projet (expérience professionnelle, engagement associatif, projet personnel), est déposée avant le 30 avril et soumise à l'accord de la Direction des Études. L'étudiant conserve les crédits acquis.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1521,8 +1755,21 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-SCOL-FAQ-2026-p2-structurel-3",
-    "texte": "Q13. Qui contacter pour une question sur un stage ou le PFE ? Q14. Puis-je utiliser un outil d'IA générative pour mes devoirs ?",
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-6",
+    "text": "Q13. Qui contacter pour une question sur un stage ou le PFE ? Le Service des Relations Entreprises (SRE) pour les offres et les conventions, et le responsable de filière pour le sujet de PFE. Les règles détaillées figurent dans le Guide des stages et du PFE.",
+    "file": "06_FAQ_Scolarite.pdf",
+    "reference": "EIH-SCOL-FAQ-2026",
+    "type": "FAQ (questions-réponses)",
+    "date": "2026-09-21",
+    "version": "1.0",
+    "statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent",
+    "page": 2,
+    "section": "Q13. Qui contacter pour une question sur un stage ou le PFE ?",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-SCOL-FAQ-2026-p2-structurel-7",
+    "text": "Q14. Puis-je utiliser un outil d'IA générative pour mes devoirs ? Seulement si la fiche module ou l'enseignant l'autorise explicitement, et en déclarant son usage (Règlement des études, article 20). Pour le PFE, consultez aussi les notes de service de la Direction des Études.",
     "file": "06_FAQ_Scolarite.pdf",
     "reference": "EIH-SCOL-FAQ-2026",
     "type": "FAQ (questions-réponses)",
@@ -1535,7 +1782,33 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p1-structurel-0",
-    "texte": "Article 1 — Durée du PFE Article 2 — Délai de dépôt du rapport",
+    "text": "Note de service n° 2026-14 Objet : modification des règles du Projet de Fin d'Études pour la promotion 2026-2027 Préambule À la suite du bilan des PFE de la promotion 2026 et après avis du Conseil pédagogique réuni le 28 septembre 2026, la Direction des Études modifie certaines règles du Projet de Fin d'Études. Les dispositions ci-dessous remplacent les dispositions correspondantes du Guide des stages et du PFE (édition du 15 juin 2026). Toutes les autres dispositions de ce guide restent inchangées.",
+    "file": "07_Note_de_service_2026-14.pdf",
+    "reference": "EIH-DE-NS-2026-14",
+    "type": "Note de service (texte modificatif)",
+    "date": "2026-10-05",
+    "version": "1.0",
+    "statut": "En vigueur ; modifie partiellement le Guide des stages et du PFE (EIH-SRE-GUIDE-2026, version 3.0)",
+    "page": 1,
+    "section": "",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-NS-2026-14-p1-structurel-1",
+    "text": "Article 1 — Durée du PFE La durée minimale du PFE est portée de 16 semaines à 18 semaines. La durée maximale reste fixée à 24 semaines. La fenêtre de début du PFE (entre le 1er février et le 1er mars) est inchangée. Motif : le bilan de la promotion 2026 a montré que les projets d'une durée de 16 semaines laissaient trop peu de temps pour la phase de tests et d'évaluation.",
+    "file": "07_Note_de_service_2026-14.pdf",
+    "reference": "EIH-DE-NS-2026-14",
+    "type": "Note de service (texte modificatif)",
+    "date": "2026-10-05",
+    "version": "1.0",
+    "statut": "En vigueur ; modifie partiellement le Guide des stages et du PFE (EIH-SRE-GUIDE-2026, version 3.0)",
+    "page": 1,
+    "section": "Article 1 — Durée du PFE",
+    "strategie": "structurel"
+  },
+  {
+    "id": "EIH-DE-NS-2026-14-p1-structurel-2",
+    "text": "Article 2 — Délai de dépôt du rapport Le rapport de PFE doit désormais être déposé sur le Portail Stages au plus tard 14 jours calendaires avant la date de soutenance, au lieu de 10 jours. Ce délai supplémentaire permet au jury de disposer du rapport et du résultat du contrôle anti-plagiat avant la soutenance.",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1547,8 +1820,8 @@
     "strategie": "structurel"
   },
   {
-    "id": "EIH-DE-NS-2026-14-p1-structurel-1",
-    "texte": "Article 3 — Déclaration d'utilisation de l'IA générative",
+    "id": "EIH-DE-NS-2026-14-p1-structurel-3",
+    "text": "Article 3 — Déclaration d'utilisation de l'IA générative En application de l'article 20 du Règlement des études, chaque rapport de PFE comporte une annexe obligatoire intitulée « Déclaration d'utilisation des outils d'IA générative ». Cette annexe indique : • les outils utilisés (assistants conversationnels, générateurs de code, outils de traduction ou de reformulation, etc.) ; • les parties du travail concernées (code, rédaction, recherche bibliographique, figures) ; • la manière dont les contenus produits ont été vérifiés par l'étudiant. Si aucun outil n'a été utilisé, l'annexe le précise. L'absence de cette annexe rend le rapport irrecevable jusqu'à sa régularisation. Une utilisation substantielle non déclarée constitue une fraude au sens de l'article 19 du Règlement des études.",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1561,7 +1834,7 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p2-structurel-0",
-    "texte": "Article 4 — Champ d'application et entrée en vigueur",
+    "text": "Article 4 — Champ d'application et entrée en vigueur La présente note s'applique à tous les PFE débutant à partir du 1er février 2027, y compris les PFE réalisés à l'étranger. Elle ne modifie pas les règles applicables au stage d'initiation et au stage technique. Récapitulatif des changements Fait le 5 octobre 2026, pour la Direction des Études.",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1574,7 +1847,7 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p2-structurel-1",
-    "texte": "Règle : Durée minimale du PFE — Guide des stages et du PFE (15 juin 2026) : 16 semaines — À partir de la présente note : 18 semaines",
+    "text": "Règle : Durée minimale du PFE — Guide des stages et du PFE (15 juin 2026) : 16 semaines — À partir de la présente note : 18 semaines",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1587,7 +1860,7 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p2-structurel-2",
-    "texte": "Règle : Durée maximale du PFE — Guide des stages et du PFE (15 juin 2026) : 24 semaines — À partir de la présente note : 24 semaines (inchangée)",
+    "text": "Règle : Durée maximale du PFE — Guide des stages et du PFE (15 juin 2026) : 24 semaines — À partir de la présente note : 24 semaines (inchangée)",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1600,7 +1873,7 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p2-structurel-3",
-    "texte": "Règle : Délai de dépôt du rapport — Guide des stages et du PFE (15 juin 2026) : 10 jours calendaires avant la soutenance — À partir de la présente note : 14 jours calendaires avant la soutenance",
+    "text": "Règle : Délai de dépôt du rapport — Guide des stages et du PFE (15 juin 2026) : 10 jours calendaires avant la soutenance — À partir de la présente note : 14 jours calendaires avant la soutenance",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
@@ -1613,7 +1886,7 @@
   },
   {
     "id": "EIH-DE-NS-2026-14-p2-structurel-4",
-    "texte": "Règle : Déclaration d'utilisation de l'IA générative — Guide des stages et du PFE (15 juin 2026) : Non prévue spécifiquement — À partir de la présente note : Annexe obligatoire dans le rapport",
+    "text": "Règle : Déclaration d'utilisation de l'IA générative — Guide des stages et du PFE (15 juin 2026) : Non prévue spécifiquement — À partir de la présente note : Annexe obligatoire dans le rapport",
     "file": "07_Note_de_service_2026-14.pdf",
     "reference": "EIH-DE-NS-2026-14",
     "type": "Note de service (texte modificatif)",
