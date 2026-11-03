@@ -51,3 +51,4 @@ indexes/
 # --- Logs ---
 *.log
 logs/
+Revision.txt
