@@ -46,7 +46,7 @@ def formater_contexte(resultats):       #resultats : chunk
     blocs = []
     for i, (doc, score) in enumerate(resultats, start=1):
         m = doc.metadata
-        blocs.append(f"[{i}] (ref. {m['reference']} | date : {m['date']} | statut : {m["statut"]})\n"
+        blocs.append(f"[{i}] (ref. {m['reference']} | date : {m['date']} | statut : {m['statut']})\n"
                      f"{doc.page_content}")
         return "\n\n".join(blocs)
 
@@ -62,7 +62,7 @@ def vers_source(rang, doc, score, complet=False):
     texte = doc.page_content if complet else doc.page_content[:300]
     return {"id" : rang, "chunk_id" : m["id"], "file" : m["file"], "reference" : m["reference"],
             "type" : m["type"], "date" : m["date"], "page" : int(m["page"]),
-            "section" : m["section"], "excerpt" : texte, "score" : m["score"]
+            "section" : m["section"], "excerpt" : texte, "score" : score
             }
 
 
