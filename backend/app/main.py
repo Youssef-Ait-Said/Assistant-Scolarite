@@ -22,7 +22,7 @@ router = APIRouter(prefix="/api")
 ERREUR_BASE = "La base vectorielle est indisponible"
 
 
-@router.get("/health", response_class=HealthResponse)
+@router.get("/health", response_model=HealthResponse)
 def health():
     try:
         return {"status" : "ok", "chunks" : store.nb_fragments()}
@@ -30,7 +30,7 @@ def health():
         raise HTTPException(status_code=503, detail=ERREUR_BASE)
 
 
-@router.post("/ingest", response_class=IngestResponse)
+@router.post("/ingest", response_model=IngestResponse)
 def ingest(req : IngestRequest):
     """(Ré)indexation. Relancer ne crée jamais de doublons (ids stables)."""
     docs = extraire_corpus()
@@ -40,19 +40,19 @@ def ingest(req : IngestRequest):
     try:
         total = store.ingerer(fragments, rebuild=req.reset)
     except Exception:
-        raise HTTPException(statUs_code=503, detail=ERREUR_BASE)
+        raise HTTPException(status_code=503, detail=ERREUR_BASE)
     return {"startegie" : req.strategie, "documents" : len(docs), "chunks_indexes" : total}
 
 
-@router.get("/documents", response_class=list[DocumentInfo])
+@router.get("/documents", response_model=list[DocumentInfo])
 def documents():
     try:
         return store.lister_documents()
     except Exception:
-        raise HTTPException(sttaus_code=503, detail=ERREUR_BASE)
+        raise HTTPException(status_code=503, detail=ERREUR_BASE)
 
 
-@router.post("/search", response_class=SearchResponse)
+@router.post("/search", response_model=SearchResponse)
 def search(req : SearchRequest):
     """Recherche seule, sans LLM : Fragments bruts et scores"""
     try:
@@ -64,7 +64,7 @@ def search(req : SearchRequest):
             }
 
 
-@router.post("/ask", response_class=AskResponse)
+@router.post("/ask", response_model=AskResponse)
 def ask(req : AskRequest):
     try:
         return rag.repondre(req.question, req.top_k, req.filters.type)

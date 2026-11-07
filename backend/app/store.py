@@ -57,6 +57,10 @@ def ingerer(fragments, rebuild=False, collection=None):
     return vs._collection.count()
 
 
+def nb_fragments(collection=None):
+    return _ouvrir(collection, avec_embeddings=False)._collection.count()
+
+
 def rechercher(question, k=5, type_doc=None, collection=None):
     """Les k fragments les plus proches : liste de (Document, score). Score = similarité (1 = identique)."""
     vs = _ouvrir(collection)
