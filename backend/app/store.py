@@ -23,7 +23,7 @@ def _ouvrir(collection=None, avec_embeddings=True):
         collection_name = collection or config.COLLECTION_NAME,
         embedding_function = embeddings,
         persist_directory = str(config.DB_DIR),
-        collection_metadata = {"hnsw:space": "cosinus"}     #distance cosinus -> score = 1 - distance
+        collection_metadata = {"hnsw:space": "cosine"}     #distance cosinus -> score = 1 - distance
     )
 
 
@@ -32,7 +32,7 @@ def vers_documents(fragments):
     docs, ids = [], []
     for f in fragments:
         meta = {k: v for k, v in f.items() if k != "text"}
-        docs.append(Document(page_content=f["texte"], metadata=meta))
+        docs.append(Document(page_content=f["text"], metadata=meta))
         ids.append(f["id"])
     return docs, ids
 
@@ -73,7 +73,7 @@ def lister_documents(collection=None):
     """Documents indexés, avec leurs métadonnées et leur nombre de fragments."""
     data = _ouvrir(collection, avec_embeddings=False)._collection.get(include=["metadatas"])
     docs= {}
-    for m in data.get("metadata"):              # m = les infos d'un fragment
+    for m in data.get("metadatas") or []:              # m = les infos d'un fragment
         ref = m["reference"]                    # le document auquel il appartient
         if ref not in docs:                     # premier fragment de ce document : on crée sa fiche
             docs[ref] = {   

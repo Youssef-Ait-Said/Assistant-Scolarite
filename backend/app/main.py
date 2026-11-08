@@ -41,7 +41,7 @@ def ingest(req : IngestRequest):
         total = store.ingerer(fragments, rebuild=req.reset)
     except Exception:
         raise HTTPException(status_code=503, detail=ERREUR_BASE)
-    return {"startegie" : req.strategie, "documents" : len(docs), "chunks_indexes" : total}
+    return {"strategie" : req.strategie, "documents" : len(docs), "chunks_indexes" : total}
 
 
 @router.get("/documents", response_model=list[DocumentInfo])
@@ -59,7 +59,7 @@ def search(req : SearchRequest):
         resultats = store.rechercher(req.question, req.top_k, req.filters.type)
     except Exception:
         raise HTTPException(status_code=503, detail=ERREUR_BASE)
-    return {"resultats" : [rag.vers_source(i, doc, score, complet=True)
+    return {"results" : [rag.vers_source(i, doc, score, complet=True)
                            for i, (doc, score) in enumerate(resultats, start=1)]
             }
 

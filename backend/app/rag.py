@@ -7,7 +7,7 @@ from langchain_google_genai import GoogleGenerativeAI
 from app import config
 from app.store import rechercher
 
-REFUS = "Je ne trouve pas  ces informations dans les documents de l'école"
+REFUS = "Je ne trouve pas cette information dans les documents de l'École."
 
 # Le prompt est écrit par nous (consigne du TP). Aucune règle propre à ce corpus :
 # la règle des versions est générale (document le plus récent qui se déclare modificatif).
@@ -48,7 +48,7 @@ def formater_contexte(resultats):       #resultats : chunk
         m = doc.metadata
         blocs.append(f"[{i}] (ref. {m['reference']} | date : {m['date']} | statut : {m['statut']})\n"
                      f"{doc.page_content}")
-        return "\n\n".join(blocs)
+    return "\n\n".join(blocs)
 
 
 def verifier_citation(reponse, nb_chunks):
