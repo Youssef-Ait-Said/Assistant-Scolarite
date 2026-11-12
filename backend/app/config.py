@@ -15,7 +15,7 @@ COLLECTION_NAME = "scolarite"
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL")
 CHAT_MODEL = os.getenv("CHAT_MODEL")
 
-SEUIL_SCORE = float(os.getenv("SEUIL_SCORE", "0.55"))  #Similarite minimale pour appeler le LLM
+SEUIL_SCORE = float(os.getenv("SEUIL_SCORE", "0.65"))  #Similarite minimale pour appeler le LLM
 TOP_K = int(os.getenv("TOP_K", "5"))
 STRATEGIE = os.getenv("STRATEGIE", "structurel") #fixe ou structurel
 CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "500"))

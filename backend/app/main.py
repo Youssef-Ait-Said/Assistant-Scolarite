@@ -40,6 +40,8 @@ def ingest(req : IngestRequest):
     try:
         total = store.ingerer(fragments, rebuild=req.reset)
     except Exception:
+        import traceback
+        traceback.print_exc()        # affiche la vraie erreur dans le terminal
         raise HTTPException(status_code=503, detail=ERREUR_BASE)
     return {"strategie" : req.strategie, "documents" : len(docs), "chunks_indexes" : total}
 

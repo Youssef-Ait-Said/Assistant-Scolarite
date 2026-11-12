@@ -52,8 +52,9 @@ def ingerer(fragments, rebuild=False, collection=None):
             except Exception:
                 if essai == 2:
                     raise
-                time.sleep(10 * (essai + 1))
-        time.sleep(0.3)
+                time.sleep(65)  # limte depasse : on attend qu une minute passe
+        if i + TAILLE_LOT < len(docs):  #pas d'attente apres le dernier lot
+            time.sleep(35)
     return vs._collection.count()
 
 

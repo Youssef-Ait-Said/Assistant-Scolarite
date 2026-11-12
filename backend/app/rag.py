@@ -76,6 +76,8 @@ def repondre(question, top_k=5, type_doc=None, collection=None):
         try:
             reponse = chaine().invoke({"context" : formater_contexte(resultats), "question" : question})
         except Exception as e:
+            import traceback
+            traceback.print_exc()   # affiche la vraie erreur dans le terminal
             raise LLMError(str(e)) from e
         reponse = reponse.strip()
         if REFUS not in reponse:

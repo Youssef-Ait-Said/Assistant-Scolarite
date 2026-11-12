@@ -20,11 +20,11 @@ def est_titre(ligne):
     return len(parties) >= 2 and all(p.isdigit() for p in parties)
 
 
-def couper_fixe(texte, taille=500, chevuchement=100):
+def couper_fixe(texte, taille=500, chevauchement=100):
     """Stratégie (a) : taille fixe avec chevauchement."""
-    if chevuchement >= taille:
+    if chevauchement >= taille:
         raise ValueError("le chevauchement doit être plus petit que la taille")
-    splitter = RecursiveCharacterTextSplitter(chunk_size = taille, chunk_overlap = chevuchement)
+    splitter = RecursiveCharacterTextSplitter(chunk_size = taille, chunk_overlap = chevauchement)
     return splitter.split_text(texte)
 
 
