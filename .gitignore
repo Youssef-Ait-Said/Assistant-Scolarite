@@ -39,6 +39,18 @@ vector_store/
 embeddings/
 indexes/
 
+#Base Vectorielle
+chroma_db/
+
+#Frontend
+node_modules/
+dist/
+
+# Systeme / editeur
+.DS_Store
+.vscode/
+
+
 # Exclude specific large data formats
 *.csv
 *.jsonl
@@ -52,3 +64,6 @@ indexes/
 *.log
 logs/
 Revision.txt
+
+__pycache__/
+node_modules/
