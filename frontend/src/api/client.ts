@@ -1,4 +1,4 @@
-import type { AskResponse, DocumentInfo, SearchResponse } from "../types";
+import type { AskResponse, DocumentInfo, HealthResponse, SearchResponse } from "../types";
 
 // L'adresse de l'API vient de la variable d'environnement VITE_API_URL (fichier .env)
 const API_URL: string = import.meta.env.VITE_API_URL ?? "http://127.0.0.1:8000";
@@ -55,4 +55,9 @@ export function rechercher(question: string, topK: number, type: string) {
 
 export function listerDocuments() {
   return requete<DocumentInfo[]>("/documents");
+}
+
+// État du service (GET /api/health) : affiché dans l'en-tête
+export function etatService() {
+  return requete<HealthResponse>("/health");
 }

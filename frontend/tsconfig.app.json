@@ -22,5 +22,5 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "c:/Users/user/Desktop/frontend-nouveau-design/frontend"]
 }

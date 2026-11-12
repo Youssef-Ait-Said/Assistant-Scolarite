@@ -26,6 +26,11 @@ export interface SearchResponse {
   results: Source[];
 }
 
+export interface HealthResponse {
+  status: string;
+  chunks: number;
+}
+
 export interface DocumentInfo {
   file: string;
   reference: string;
